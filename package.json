@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "engines": {
-    "node": "8.1.1",
-    "npm": "5.0.3"
+    "node": "v18.20.6",
+    "npm": "10.8.2"
   },
   "scripts": {
     "start": "node index.js"
